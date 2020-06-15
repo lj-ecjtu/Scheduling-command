@@ -1,0 +1,14 @@
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\XingDiaoXiTong.csproj.GenerateResource.Cache
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\毕设论文\个人毕业设计\毕设软件程序\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb

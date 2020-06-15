@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db_data" Class="linqtosqlClassDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=127.0.0.1;Initial Catalog=db_data;User ID=sa" SettingsObjectName="WindowsFormsApplication1.Properties.Settings" SettingsPropertyName="db_dataConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.mlmoban" Member="mlmoban">
+    <Type Name="mlmoban">
+      <Column Name="模板编号" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="命令类型" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="命令内容" Type="System.String" DbType="NChar(200)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
