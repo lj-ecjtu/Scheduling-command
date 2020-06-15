@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db_NanJingNanZhan" Class="linqtosqlClassDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=127.0.0.1;Initial Catalog=db_NanJingNanZhan;User ID=sa" SettingsObjectName="NanJingNanZhan.Properties.Settings" SettingsPropertyName="db_NanJingNanZhanConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.qianshouml" Member="qianshouml">
+    <Type Name="qianshouml">
+      <Column Name="命令编号" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="命令类型" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="命令内容" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="是否签收" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="签收人" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="签收时间" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="签收结果" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
